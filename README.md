@@ -10,7 +10,7 @@
 ## General info
 
 I have thus far made it to web apps and React on the codecademy track, but I wanted more practice with vanilla javascript to really get the fundamentals down before jumping into React and other frameworks/libraries.
-So I decided to work through Brad Traversy's Udemy course called [20 Web Projects with Vanilla Javascript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/) to build some projects using modern vanilla javascript (some of his course content is in ES5, but I have been modifying it to use ES6 syntax whenever possible.)
+So I decided to work through Brad Traversy's Udemy course called [20 Web Projects with Vanilla Javascript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/) to build some projects using modern vanilla javascript.
 
 
 ## Technologies
